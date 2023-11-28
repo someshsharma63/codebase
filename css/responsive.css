@@ -1,0 +1,559 @@
+@media screen and (min-width: 320px) and (max-width:480px) {
+    .backcarasol
+    {
+        height:unset;
+    }
+    ul.navbar-nav.me-auto.mx-auto.mb-2.mb-lg-0.align-items-left {
+        padding-top: 17px;
+    }
+}
+@media screen and (min-width: 481px) and (max-width:575px) {
+   
+    ul.navbar-nav.me-auto.mx-auto.mb-2.mb-lg-0.align-items-left {
+        padding-top: 17px;
+    }
+}
+@media screen and (min-width: 576px) and (max-width:768px) {
+    ul.navbar-nav.me-auto.mx-auto.mb-2.mb-lg-0.align-items-left {
+        padding-top: 17px;
+    }
+   
+}
+
+@media screen and (min-width: 769px) and (max-width:992px) {
+    ul.navbar-nav.me-auto.mx-auto.mb-2.mb-lg-0.align-items-left {
+        padding-top: 17px;
+    }
+   
+}
+
+
+@media screen and (min-width: 320px) and (max-width:480px) {
+    #ourprogram
+    {
+        padding: 1rem 0;
+    }
+    .ourstudentscol h2 
+    {
+        text-align: justify;
+        padding: 10px;
+        font-size: 18px;
+    }
+    #successstories
+    {
+        padding: 2rem 0;
+    }
+    #ourvalueble_client
+    {
+        padding: 1rem 0;
+    }
+    #coursessubject 
+    {
+        padding: 2rem 0rem;
+    }
+    .successsto h1 
+    {
+        font-size: 20px;
+        font-weight: bold;
+        padding-bottom: 20px;
+    }
+    .webdevlopmentfr p
+    {
+        padding: 9px;
+    }
+    #howtojoin 
+    {
+        padding: 1rem 0rem;
+    }
+    .coursesfoot {
+        margin: 1rem 0px;
+    }
+  }
+
+  /* -------------------------------- */
+
+/* privacy policy page */
+@media screen and (min-width: 320px) and (max-width:480px) {
+    .termsncondition h3
+    {
+        text-align: center;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .termsncondition p
+    {
+        margin-top: 20px;
+    }
+    .contactuspage 
+    {
+        padding: 0px 25px;
+    }
+
+}
+@media screen and (min-width: 481px) and (max-width:576px) {
+
+}
+
+/* ---------------------------------------- */
+
+/* faq */
+@media screen and (min-width: 320px) and (max-width:480px) {
+    #faq
+    {
+        padding: 1rem 0rem;
+    }
+    .freqauntlyask h1 
+    {
+        font-size: 20px;
+    }
+    .acord {
+        margin-top: 24px;
+    }
+}
+
+/* ------------------------------------------ */
+
+/* contact us */
+@media screen and (min-width: 320px) and (max-width:480px) {
+    section#contactcontent
+    {
+        padding: 2rem 0rem;
+    }
+    .getintouch {
+        margin-top: 20px;
+    }
+    #aboutusimage
+    {
+        height: unset;
+    }
+    .aboutusim h1
+    {
+        font-size: 2rem;
+    }
+    .howtocontact p
+         {
+            padding: 0px 20px;
+            text-align: justify;
+            font-size: 16px;
+            margin: 27px 0px;
+            line-height: 31px;
+            }
+}
+@media screen and (min-width:481px) and (max-width:575px) {
+    .howtocontact p
+    {
+        padding: 0px 20px;
+        text-align: justify;
+    }
+    #aboutusimage
+    {
+        height: unset;
+    }
+    .aboutusim h1
+    {
+        font-size: 2rem;
+    }
+}
+@media screen and (min-width:576px) and (max-width:768px) {
+    .howtocontact p
+    {
+        padding: 0px 20px;
+        text-align: justify;
+    }
+
+    #aboutusimage
+    {
+        height: unset;
+    }
+    .aboutusim h1
+    {
+        font-size: 2rem;
+    }
+}
+@media screen and (min-width:769px) and (max-width:992px) {
+    .howtocontact p
+    {
+        padding: 0px 20px;
+        text-align: justify;
+    }
+    #aboutusimage
+    {
+        height: unset;
+    }
+    .aboutusim h1
+    {
+        font-size: 2rem;
+    }
+}
+@media screen and (min-width:992px) and (max-width:1200px) {
+    .howtocontact p
+    {
+        padding: 0px 20px;
+        text-align: justify;
+    }
+    #aboutusimage
+    {
+        height: unset;
+    }
+    .aboutusim h1
+    {
+        font-size: 2rem;
+    }
+}
+/* 
+----------------------------------------- */
+/* blog detail start */
+
+@media screen and (min-width: 320px) and (max-width:480px) {
+    #blogdetail 
+    {
+        padding: 2rem 0rem;
+    }
+    .blogdettcontent {
+        padding: 15px;
+    }
+    .blogdettcontent h1 
+    {
+        font-size: 16px;
+        font-weight: 600;
+        text-align: justify;
+    }
+}
+@media screen and (min-width: 481px) and (max-width:575px) {
+    #blogdetail 
+    {
+        padding: 2rem 0rem;
+    }
+    .blogdettcontent {
+        padding: 15px;
+    }
+    .blogdettcontent h1 
+    {
+        font-size: 16px;
+        font-weight: 600;
+        text-align: justify;
+    }
+}
+@media screen and (min-width: 576px) and (max-width:768px) {
+    #blogdetail 
+    {
+        padding: 2rem 0rem;
+    }
+    .blogdettcontent {
+        padding: 15px;
+    }
+    .blogdettcontent h1 
+    {
+        font-size: 16px;
+        font-weight: 600;
+        text-align: justify;
+    }
+}
+@media screen and (min-width: 769px) and (max-width:992px) {
+    #blogdetail 
+    {
+        padding: 2rem 0rem;
+    }
+    .blogdettcontent {
+        padding: 15px;
+    }
+    .blogdettcontent h1 
+    {
+        font-size: 20px;
+        font-weight: 600;
+        text-align: justify;
+    }
+}
+@media screen and (min-width: 992px) and (max-width:1200px) {
+    #blogdetail 
+    {
+        padding: 2rem 0rem;
+    }
+    .blogdettcontent {
+        padding: 15px;
+    }
+    .blogdettcontent h1 
+    {
+        font-size: 20px;
+        font-weight: 600;
+        text-align: justify;
+    }
+}
+/* ----------------------------------- */
+/* blog section start */
+@media screen and (min-width: 320px) and (max-width:480px) {
+    .blogmain h2 
+    {   
+        font-size: 16px;
+        font-weight: 600;
+    }
+    #blogsec
+    {
+        padding: 0;
+    }
+
+}
+/* --------------------- */
+/* About us section start */
+@media screen and (min-width: 320px) and (max-width:480px) {
+    #founders
+    {
+        padding: 2rem 0;
+    }
+    #chooseus
+    {
+        padding: 2rem 0;
+    }
+    .foundercontent p 
+    {
+        padding: 14px;
+    }
+    .ourstudentscol p
+    {
+        padding: 0 12px;
+    }
+    .program h1 
+    {
+        font-size: 22px;
+        /* padding-bottom: 20px; */
+    }
+}
+@media screen and (min-width: 481px) and (max-width:575px) {
+    #founders
+    {
+        padding: 2rem 0;
+    }
+    #chooseus
+    {
+        padding: 2rem 0;
+    }
+    .foundercontent p 
+    {
+        padding: 14px;
+    }
+    .ourstudentscol p
+    {
+        padding: 14px;
+    }
+    .founderimage
+    {
+        margin: auto;
+    } 
+    .program h1 
+    {
+        font-size: 22px;
+        padding-bottom: 20px;
+    }
+}
+@media screen and (min-width: 576px) and (max-width:768px) {
+    #founders
+    {
+        padding: 2rem 0;
+    }
+    #chooseus
+    {
+        padding: 2rem 0;
+    }
+    .foundercontent p 
+    {
+        padding: 14px;
+    }
+    .ourstudentscol p
+    {
+        padding: 14px;
+    }
+    .founderimage
+    {
+        margin: auto;
+    } 
+    .program h1 
+    {
+        font-size: 22px;
+        padding-bottom: 20px;
+    }
+}
+@media screen and (min-width: 577px) and (max-width:992px) {
+    #founders
+    {
+        padding: 2rem 0;
+    }
+    #chooseus
+    {
+        padding: 2rem 0;
+    }
+    .foundercontent p 
+    {
+        padding: 14px;
+    }
+    .ourstudentscol p
+    {
+        padding: 14px;
+    }
+    .founderimage
+    {
+        margin: auto;
+    } 
+    .program h1 
+    {
+        font-size: 22px;
+        padding-bottom: 20px;
+    }
+}
+
+/* cource page section starts */
+@media screen and (min-width: 320px) and (max-width:480px) {
+
+    #chooseus
+    {
+        padding: 0;
+    }
+    .benefitscourse h1
+    {
+        font-size: 18px;
+    }
+    #whyuiux
+    {
+        padding: 1rem;
+    }
+    #courses_benefits 
+    {
+        padding: 1rem;
+    }
+    .benefitscou {
+        margin-top: 10px;
+    }
+    #uiuxcomp
+    {
+        padding: 1rem;
+    }
+    .uiuxcontent h1
+    {
+        font-size: 1.5rem;
+    }
+    
+
+}
+@media screen and (min-width: 481px) and (max-width:575px) {
+
+    #chooseus
+    {
+        padding: 0;
+    }
+    .benefitscourse h1
+    {
+        font-size: 18px;
+    }
+    #whyuiux
+    {
+        padding: 1rem;
+    }
+    #courses_benefits 
+    {
+        padding: 1rem;
+    }
+    .benefitscou {
+        margin-top: 10px;
+    }
+    #uiuxcomp
+    {
+        padding: 1rem;
+    }
+    .uiuxcontent h1
+    {
+        font-size: 1.5rem;
+    }
+    
+
+}
+@media screen and (min-width: 576px) and (max-width:768px)
+{
+
+    #chooseus
+    {
+        padding: 0;
+    }
+    .benefitscourse h1
+    {
+        font-size: 18px;
+    }
+    #whyuiux
+    {
+        padding: 1rem;
+    }
+    #courses_benefits 
+    {
+        padding: 1rem;
+    }
+    .benefitscou {
+        margin-top: 10px;
+    }
+    #uiuxcomp
+    {
+        padding: 1rem;
+    }
+    .uiuxcontent h1
+    {
+        font-size: 1.5rem;
+    }
+    
+}
+@media screen and (min-width: 769px) and (max-width:992px)
+{
+    #chooseus
+    {
+        padding: 0;
+    }
+    .benefitscourse h1
+    {
+        font-size: 18px;
+    }
+    #whyuiux
+    {
+        padding: 1rem;
+    }
+    #courses_benefits 
+    {
+        padding: 1rem;
+    }
+    .benefitscou {
+        margin-top: 10px;
+    }
+    #uiuxcomp
+    {
+        padding: 1rem;
+    }
+    .uiuxcontent h1
+    {
+        font-size: 1.5rem;
+    }
+}
+@media screen and (min-width: 993px) and (max-width:1200px)
+{
+    #chooseus
+    {
+        padding: 0;
+    }
+    .benefitscourse h1
+    {
+        font-size: 18px;
+    }
+    #whyuiux
+    {
+        padding: 1rem;
+    }
+    #courses_benefits 
+    {
+        padding: 1rem;
+    }
+    .benefitscou {
+        margin-top: 10px;
+    }
+    #uiuxcomp
+    {
+        padding: 1rem;
+    }
+    .uiuxcontent h1
+    {
+        font-size: 1.5rem;
+    } 
+}

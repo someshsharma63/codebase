@@ -1,0 +1,83 @@
+1>what is git
+
+->Git is distributed version control system.
+->A distributed version control system (DVCS) brings a local copy of the complete repository to every team member’s computer, so they can commit, branch, and merge locally. 
+
+->When 10 people work on a projct with diffrent pages and someone want to change anything then git will save the changes and it will also give the facility of revert the page.
+
+Basically git is a software.
+Installation of git. 
+
+1>Enter git window install.
+
+after installation of git make a folder and right click to open git bash.
+
+Now commands in gitbash
+
+a> git config --global user.name Somesh
+
+a> git config --global user.email someshdevera98@gmail.com
+
+Now enter the code . for open the vs code.
+
+->Enter the command *git init for initialize the git repositary.
+
+Now make a file of html and use emmitte.
+
+and give an command *git status.
+
+->command *git add filename/index.html
+and again put command git status.
+
+->command *git commit for save the file.
+
+->then type command Initial commit 
+->then type esc+:wq for exit.
+
+again type git status.
+->*touch about.html.
+
+again *git status then files are not tracked.
+
+->then *git add -A for send all files in statging area.
+
+then again press git status.
+
+->then just add the emmite in about us page.
+
+->then git status.
+->then git add -A.
+->then git status
+
+->then type *git commit -m "Added some html" is use for message.
+
+->git status.
+
+->type clear for clean the code and start from top of terminal.
+
+->now delete the file contact.html and type git status it shows file is deleted.
+now type git restore contact.html then again file will restore.
+
+->*git diff* command will tells us that what we change in the file.
+
+->then type touch dummy.html it will create a file.
+
+->ls will give the list of files.
+
+->type command *git rm filename* to delete the file and the if you check ls then it 
+will give you the list of new files.
+
+Branch
+
+->it will make a copy of code.main branch is master.
+
+GITHUB:
+GITHUB IS A HOSTING SERVICE THAT HOST THE CODE OF GIT.
+
+->firstly we create a new repositary.
+
+just fill the project name and description and click on private repo.
+
+Now copy the origin line and paste in the git.
+
+->then type git remote and enter.
